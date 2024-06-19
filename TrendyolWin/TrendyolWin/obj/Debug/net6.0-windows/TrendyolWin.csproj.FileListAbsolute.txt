@@ -1,0 +1,56 @@
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.csproj.AssemblyReference.cache
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.SiparisListesi.resources
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.UrunEkle.resources
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.YeniSiparis.resources
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.csproj.GenerateResource.cache
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.AssemblyInfoInputs.cache
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.AssemblyInfo.cs
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.csproj.CoreCompileInputs.cache
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.exe
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.deps.json
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.runtimeconfig.json
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.dll
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.pdb
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.csproj.CopyComplete
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.dll
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\refint\TrendyolWin.dll
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.pdb
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.genruntimeconfig.cache
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\ref\TrendyolWin.dll
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.dll.config
+C:\Users\utku\Desktop\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.Properties.Resources.resources
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.exe
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.dll.config
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.deps.json
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.runtimeconfig.json
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.dll
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\TrendyolWin.pdb
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.csproj.AssemblyReference.cache
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.Properties.Resources.resources
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.SiparisListesi.resources
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.UrunEkle.resources
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.YeniSiparis.resources
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.csproj.GenerateResource.cache
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.AssemblyInfoInputs.cache
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.AssemblyInfo.cs
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.csproj.CoreCompileInputs.cache
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.csproj.CopyComplete
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.dll
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\refint\TrendyolWin.dll
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.pdb
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\TrendyolWin.genruntimeconfig.cache
+C:\Users\utku\Desktop\ \staj\TrendyolWin\TrendyolWin\obj\Debug\net6.0-windows\ref\TrendyolWin.dll
